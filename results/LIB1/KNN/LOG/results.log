@@ -1,0 +1,11 @@
+INFO:root:---------------------------- KNN ---------------------------
+INFO:root: Dataset : LIB1
+INFO:root: Building hit rate : 100.000
+INFO:root: Floor hit rate : 99.199
+INFO:root: Training time : 0.000862
+INFO:root: Prediction time : 0.132779
+INFO:root: Full time : 0.133641
+INFO:root: ------- KNN configuration ------- 
+INFO:root: model: KNN
+INFO:root: K:1
+INFO:root: distance: euclidean

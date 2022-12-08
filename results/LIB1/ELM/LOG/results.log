@@ -1,0 +1,15 @@
+INFO:root:---------------------------- ELM ---------------------------
+INFO:root: Dataset : LIB1
+INFO:root: Training time : 0.093949
+INFO:root: Prediction time : 0.035140
+INFO:root: Floor hit rate : 99.615
+INFO:root: Building hit rate : 100.000
+INFO:root: ------- ELM configuration ------- 
+INFO:root: model: ELM
+INFO:root: train: True
+INFO:root: hidden_neurons: 80
+INFO:root: act_funct: tansig
+INFO:root: C: 0.5
+INFO:root: win_method: orthogonal
+INFO:root: win_bits: 2
+INFO:root: wout_bits: 8

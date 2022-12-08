@@ -1,0 +1,11 @@
+INFO:root:---------------------------- KNN ---------------------------
+INFO:root: Dataset : UJI2
+INFO:root: Building hit rate : 100.000
+INFO:root: Floor hit rate : 91.311
+INFO:root: Training time : 0.005960
+INFO:root: Prediction time : 2.960237
+INFO:root: Full time : 2.966197
+INFO:root: ------- KNN configuration ------- 
+INFO:root: model: KNN
+INFO:root: K: 1
+INFO:root: distance: Euclidean

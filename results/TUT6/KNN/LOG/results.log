@@ -1,0 +1,11 @@
+INFO:root:---------------------------- KNN ---------------------------
+INFO:root: Dataset : TUT6
+INFO:root: Building hit rate : 100.000
+INFO:root: Floor hit rate : 99.656
+INFO:root: Training time : 0.001422
+INFO:root: Prediction time : 0.847919
+INFO:root: Full time : 0.849341
+INFO:root: ------- KNN configuration ------- 
+INFO:root: model: KNN
+INFO:root: K: 1
+INFO:root: distance: Euclidean

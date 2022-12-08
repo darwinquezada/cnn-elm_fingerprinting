@@ -1,0 +1,25 @@
+INFO:root:---------------------------- CNN-ELM ---------------------------
+INFO:root: Dataset : TUT6
+INFO:root: Training time : 0.371157
+INFO:root: Prediction time : 0.132408
+INFO:root: Floor hit rate : 99.53
+INFO:root: Building hit rate : 100.00
+INFO:root: ------- CNN configuration ------- 
+INFO:root: model: CNN-ELM
+INFO:root: type: 1
+INFO:root: train: True
+INFO:root: padding: same
+INFO:root: strides: 1
+INFO:root: data_format: channels_last
+INFO:root: act_funct: abs
+INFO:root: kernel_size: 1
+INFO:root: filter: 3
+INFO:root: ------- ELM configuration ------- 
+INFO:root: model: ELM
+INFO:root: train: True
+INFO:root: hidden_neurons: 450
+INFO:root: act_funct: tansig
+INFO:root: C: 0.1
+INFO:root: win_method: orthogonal
+INFO:root: win_bits: 2
+INFO:root: wout_bits: 8
