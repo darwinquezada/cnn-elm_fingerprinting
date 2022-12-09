@@ -65,7 +65,7 @@ Machine learning models have become an essential tool in current indoor position
 * pandas, numpy, seaborn, matplotlib, sklearn, colorama
 
 ## Datasets 
-The datasets can be downloaded either from authors' repository (see README file in dataset folder) or from the following repository:
+The datasets can be downloaded either from authors' repository (see README file in datasets folder) or from the following repository:
 
       "Joaquín Torres-Sospedra, Darwin Quezada-Gaibor, Germán Mendoza-Silva,
       Jari Nurmi, Yevgeny Koucheryavy, & Joaquín Huerta. (2020). Supplementary
