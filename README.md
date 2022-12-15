@@ -23,6 +23,8 @@ Machine learning models have become an essential tool in current indoor position
   doi={10.1109/ICL-GNSS54081.2022.9797021}}
 ```
 
+Note: This package is based on the software provided by R. Dogaru, et al. (https://github.com/radu-dogaru/LightWeight_Binary_CNN_and_ELM_Keras/blob/master/BCONV-ELM.ipynb)
+* R. Dogaru and I. Dogaru, "BCONV - ELM: Binary Weights Convolutional Neural Network Simulator based on Keras/Tensorflow, for Low Complexity Implementations," 2019 6th International Symposium on Electrical and Electronics Engineering (ISEEE), 2019, pp. 1-6, doi: 10.1109/ISEEE48094.2019.9136102.
 
 ### Developed using
 
